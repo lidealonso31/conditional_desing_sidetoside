@@ -1,4 +1,4 @@
-# conditional_desing_sidetoside
+# Conditional_desing_sidetoside
 
 Side to Side
 
