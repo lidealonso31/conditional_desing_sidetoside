@@ -1,5 +1,6 @@
 # conditional_desing_sidetoside
-Edu, Iciar, Jorge, Lide
+
+Side to Side
 
 1. El grupo deberá de ser par, para dividerse entre dos.
 
