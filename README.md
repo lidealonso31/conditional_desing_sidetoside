@@ -21,3 +21,5 @@ Side to Side
     5.1.  Los triángulos deberán esquivar los puntos del equipo contrario.
 
 6. El juego finalizará cuando uno de los equipos toque la frontera del otro equipo.
+
+Edu, Jorge, Iciar, Lide.
